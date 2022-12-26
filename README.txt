@@ -1,1 +1,1 @@
-Neptune API replacement
+Neptune API replacement for Onsen Town
